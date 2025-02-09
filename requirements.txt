@@ -1,0 +1,4 @@
+pytest
+requests
+requests-toolbelt==1.0.0
+git+https://github.com/Quantum-Mads/Predictors-Study.git#egg=predictors
